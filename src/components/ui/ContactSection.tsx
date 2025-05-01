@@ -29,7 +29,7 @@ const ContactSection: React.FC = () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          chat_id: 8153880257,
+          chat_id: 6663911721,
           text: telegramMessage,
         }),
       }
